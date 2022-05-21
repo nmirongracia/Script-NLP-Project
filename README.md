@@ -25,7 +25,7 @@ El proyecto contiene 1 script .ipynb con 9 partes principales:
 8. Rolling Sentiment - Sentimiento a lo largo de los episodios
 9. Word Embedding - Word2Vec
 
-¡Esperermos que os haya resultado interesante!
+¡Esperamos que os haya resultado interesante!
 
 
 
