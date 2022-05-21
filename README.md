@@ -10,10 +10,8 @@ Este proyecto es el trabajo de TEXTO del Máster de Big Data y Analítica avanza
 
 En este proyecto analizamos los diálogos de más de 600 episodios de esta mítica serie, utilizando diferentes técnicas de NLP.
 
-El objetivo del proyecto es analizar estos diálogos de manera interesante con diversas técnicas de NLP.
-
 ## Nuestra Propuesta
-El proyecto contiene 1 script "NLPconTheSimpsons.ipynb" con 9 partes principales:
+El proyecto contiene 1 script "NLPTheSimpsons.ipynb" con 9 partes principales:
 
 1. Los personajes más "Habladores" de la serie
 2. Ranking de las palabras más Comunes
