@@ -13,7 +13,7 @@ En este proyecto analizamos los diálogos de más de 600 episodios de esta míti
 El objetivo del proyecto es analizar estos diálogos de manera interesante con diversas técnicas de NLP.
 
 ## Nuestra Propuesta
-El proyecto contiene 1 script .ipynb con 9 partes principales:
+El proyecto contiene 1 script "NLPconTheSimpsons.ipynb" con 9 partes principales:
 
 1. Los personajes más "Habladores" de la serie
 2. Ranking de las palabras más Comunes
